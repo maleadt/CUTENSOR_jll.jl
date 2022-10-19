@@ -9,3 +9,14 @@ os = "linux"
     [[CUTENSOR.download]]
     sha256 = "130f3e9fce6907d49a9401a9dfc3320fa35588f1162b40bb2be4f75723ce230a"
     url = "https://github.com/maleadt/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.4.0+1/CUTENSOR.v1.4.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "10.2"
+git-tree-sha1 = "f0498bdeaca34841cd5fa3f511ee615f0cf8edf1"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "3869c05978893294499bbd998725aebab6355bdbaa20c76754f909701025a7b4"
+    url = "https://github.com/maleadt/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.4.0+1/CUTENSOR.v1.4.0.x86_64-linux-gnu-cuda+10.2.tar.gz"

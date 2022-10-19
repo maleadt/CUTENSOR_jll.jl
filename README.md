@@ -16,7 +16,7 @@ The tarballs for `CUTENSOR_jll.jl` have been built from these sources:
 
 `CUTENSOR_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cuda=11.0, libc=glibc}` (`x86_64-linux-gnu-cuda+11.0`)
+* `Linux x86_64 {cuda=10.2, libc=glibc}` (`x86_64-linux-gnu-cuda+10.2`)
 
 ## Dependencies
 
